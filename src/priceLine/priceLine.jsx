@@ -117,7 +117,7 @@ class PriceLine extends React.Component {
                                             </Col>
                                             <Col md={9} className="adj-icon-col-left ">
                                                 <Nav.Link eventKey={2} href="#memes">
-                                                    <NavDropdown title="Help" id="coll">
+                                                    <NavDropdown title="Helprrr" id="coll">
                                                         <NavDropdown.Item href="#action/3.1">Action</NavDropdown.Item>
                                                         <NavDropdown.Item href="#action/3.2">Another action</NavDropdown.Item>
                                                         <NavDropdown.Item href="#action/3.3">Something</NavDropdown.Item>

@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5634341b-6402-41fe-b880-fc3d1a7f295b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/priceLine-main/priceLineMain.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/priceLine-main/priceLineMain.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priceLine/pLine.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/priceLine/pLine.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/priceLine/priceLine.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/priceLine/priceLine.jsx" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -20,8 +19,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/priceLine/priceLine.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="233">
-              <caret line="127" column="50" lean-forward="true" selection-start-line="127" selection-start-column="50" selection-end-line="127" selection-end-column="50" />
+            <state relative-caret-position="242">
+              <caret line="119" column="78" selection-start-line="119" selection-start-column="78" selection-end-line="119" selection-end-column="78" />
               <folding>
                 <element signature="e#0#49#0" expanded="true" />
               </folding>
@@ -93,8 +92,8 @@
         <option value="$PROJECT_DIR$/src/priceLine-main/priceLineMain.jsx" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/priceLine-main/priceLineMain.css" />
-        <option value="$PROJECT_DIR$/src/priceLine/priceLine.jsx" />
         <option value="$PROJECT_DIR$/src/priceLine/pLine.css" />
+        <option value="$PROJECT_DIR$/src/priceLine/priceLine.jsx" />
       </list>
     </option>
   </component>
@@ -110,8 +109,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="358" />
-    <option name="y" value="-774" />
+    <option name="x" value="349" />
+    <option name="y" value="-954" />
     <option name="width" value="1260" />
     <option name="height" value="741" />
   </component>
@@ -195,15 +194,16 @@
       <workItem from="1582832231347" duration="14574000" />
       <workItem from="1582913511846" duration="224000" />
       <workItem from="1583003603909" duration="837000" />
-      <workItem from="1583049788197" duration="7806000" />
+      <workItem from="1583049788197" duration="9432000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33619000" />
+    <option name="totallyTimeSpent" value="35245000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="358" y="-774" width="1260" height="741" extended-state="0" />
+    <frame x="349" y="-954" width="1260" height="741" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15496369" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -301,8 +301,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/priceLine/priceLine.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="127" column="50" lean-forward="true" selection-start-line="127" selection-start-column="50" selection-end-line="127" selection-end-column="50" />
+        <state relative-caret-position="242">
+          <caret line="119" column="78" selection-start-line="119" selection-start-column="78" selection-end-line="119" selection-end-column="78" />
           <folding>
             <element signature="e#0#49#0" expanded="true" />
           </folding>
