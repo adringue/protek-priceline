@@ -1,0 +1,41 @@
+.pLine-price{
+    color:#1479f6 !important;
+    font-weight: bold;
+    /*font-size: 40px;*/
+}
+
+.container{
+    max-width: 100% !important;
+}
+.adj-left{
+    text-align: left;
+    margin-top: 16px;
+    margin-bottom:16px;
+    background-color: #368eb6;
+}
+
+.adj-b{
+    background-color: #368eb6;
+    color: white;
+}
+.adj-color2{
+    color: #1479f6 !important;
+}
+.adj-left-top{
+    border-right: 1px solid white !important;
+}
+.adj-col{
+    padding: 0 !important;
+}
+nav.bg-white{
+
+    background-color: whitesmoke !important;
+}
+
+.adj-img{
+    background-image: url("https://www.priceline.com/home/public/assets/images/photos/pcln-hp-hero-mountain-lounge.jpg");
+    height:500px;
+    background-position: right;
+
+}
+
