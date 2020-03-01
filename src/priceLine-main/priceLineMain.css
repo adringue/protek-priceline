@@ -1,6 +1,8 @@
 .adj_new {
     background-color: pink;
-    height:200px;
-    width:400px;
+    height: 400px;
+    width: 56%;
     border:1px solid black;
+    margin-left: 13%;
+    margin-top: 3%;
 }

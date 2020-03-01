@@ -38,4 +38,33 @@ nav.bg-white{
     background-position: right;
 
 }
+.adj-icon{
+    height: 100%;
+    line-height: 56px;
+    color: blue;
+}
 
+.adj-icon-col{
+    padding-right:0 !important;
+}
+.adj-icon-col-left{
+    padding-left:0 !important;
+}
+.adj-color2 > a{
+    padding-left: 0 !important;
+}
+.adj-color2 > div > a{
+    padding-left: 0 !important;
+}
+.adj-icon-col-left > a{
+    padding-left: 0 !important;
+}
+.adj-icon-col-left > a >div >a{
+    padding-left: 6px !important;
+}
+.adj-icon-col-left_ml{
+    padding-left: 21px !important;
+}
+.adj-icon-col-left_ml > div{
+padding-right:3px;
+}
