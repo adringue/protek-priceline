@@ -1,8 +1,19 @@
-.adj_new {
-    background-color: pink;
+*{
+    margin:0;
+    padding:0;
+}
+.adj_new_2 {
+
+    background-color: white;
     height: 400px;
-    width: 56%;
+    width: 60%;
     border:1px solid black;
-    margin-left: 13%;
-    margin-top: 3%;
+    margin-left: 3%;
+}
+
+
+.main-container{
+    padding-top: 60px !important;
+    padding-left: 70px !important;
+
 }

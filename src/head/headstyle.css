@@ -1,0 +1,30 @@
+.header{
+    border:3px solid red;
+
+
+
+}
+.heading{
+    color: rgb(0, 24, 51);
+    font-size: 30px;
+    font-weight: 710;
+    line-height: 1.25;
+    text-align: left;
+    }
+.header1{
+    color: rgb(0, 24, 51);
+    font-size: 20px;
+    position: relative;
+    text-align: left;
+}
+.border1{
+    height: 0.25rem;
+    width: 20%;
+    padding: 0px;
+    background: rgb(0, 122, 255);
+    border-width: initial;
+    border-style: none;
+    border-color: initial;
+    border-image: initial;
+    
+}
