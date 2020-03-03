@@ -36,34 +36,18 @@ class Flights extends React.Component {
                     <Row>
                         <Col>
                             <div className="">
-                               <p>dsgsd</p>
+                               <p>flights</p>
+                             </div>
+                        </Col>
+
+                        <Col>
+                            <div className="">
+                               <p>flights</p>
                              </div>
                         </Col>
                         <Col>
                             <div className="">
-                               <p>dsgsd</p>
-                             </div>
-                        </Col>
-                        <Col>
-                            <div className="">
-                               <p>dsgsd</p>
-                             </div>
-                        </Col>
-                    </Row>
-                    <Row>
-                        <Col>
-                            <div className="">
-                               <p>dsgsd</p>
-                             </div>
-                        </Col>
-                        <Col>
-                            <div className="">
-                               <p>dsgsd</p>
-                             </div>
-                        </Col>
-                        <Col>
-                            <div className="">
-                               <p>dsgsd</p>
+                               <p>flights</p>
                              </div>
                         </Col>
                     </Row>

@@ -8,7 +8,16 @@ import { Button } from "react-bootstrap";
 import "./priceLineMain.css";
 
 import Header from '../head/header';
+import {Switch, Route, } from "react-router-dom";
+
+
 import PriceLineTabs from '../priceline-tabs/priceline-tabs';
+import TabComponent from "../TabComponent/TabComponent";
+import Car from "../cars/cars";
+import Flights from "../flights/flights";
+import Hotel from "../hotel/hotel";
+import BundleSave from "../bundle-save/bundle-save";
+import Cruises from "../cruises/cruises";
 
 class PriceLineMain extends React.Component {
     constructor() {
@@ -19,13 +28,21 @@ class PriceLineMain extends React.Component {
             <div className="">
                 <Container className="main-container">
                    
-                                    <div className="adj_new_2  main">
-                                        <Header />
-                                        <PriceLineTabs />
-                                    </div>
-                                                                 
+                    <div className="adj_new_2  main">
 
 
+                        <Route path="/" component={Header}/>
+                        <TabComponent/>
+                        <Switch>
+                            <Route path="/cars" component={Car}/>
+                            <Route path="/flights" component={Flights}/>
+                            <Route path="/hotels" component={Hotel}/>
+                            <Route path="/bundle+save" component={BundleSave}/>
+                            <Route path="/cruises" component={Cruises}/>
+
+                        </Switch>
+
+                    </div>
 
                 </Container>
             </div>

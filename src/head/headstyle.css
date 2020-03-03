@@ -1,13 +1,11 @@
 .header{
     border:3px solid red;
-
-
-
+    font-size: 20px;
 }
 .heading{
     color: rgb(0, 24, 51);
     font-size: 30px;
-    font-weight: 710;
+    font-weight: 700;
     line-height: 1.25;
     text-align: left;
     }
@@ -27,4 +25,8 @@
     border-color: initial;
     border-image: initial;
     
+}
+.adj-header-font-size{
+    width: 58%;
+    text-align: left;
 }

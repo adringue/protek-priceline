@@ -8,6 +8,8 @@ import {Form} from "react-bootstrap";
 import {Button} from "react-bootstrap";
 import ButtonCompo from "./ButtonComp/Button";
 import PriceLine from "./priceLine/priceLine";
+import {BrowserRouter} from "react-router-dom";
+
 
 
 class App extends React.Component {
@@ -18,12 +20,17 @@ class App extends React.Component {
 
 
         return (
-            <div className="App">
+            <BrowserRouter>
+                <div className="App">
 
-                <PriceLine/>
+                    <PriceLine/>
 
 
-            </div>
+                </div>
+
+
+            </BrowserRouter>
+
         );
     }
 

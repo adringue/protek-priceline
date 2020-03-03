@@ -5,14 +5,21 @@ import {Row} from "react-bootstrap";
 import {Col} from "react-bootstrap";
 import {Form} from "react-bootstrap";
 import {Button} from "react-bootstrap";
-import { DateRangePicker } from 'rsuite';
+import { Icon } from 'rsuite';
+import { Modal } from 'rsuite';
+
+import 'rsuite/dist/styles/rsuite-default.css';
+
 
 import 'react-dates/initialize';
+import 'react-dates/lib/css/_datepicker.css';
+import { DateRangePicker } from 'rsuite';
 
-import "./hotel.css";
+
+import "./cruises.css";
 
 
-class Hotel extends React.Component {
+class Cruises extends React.Component {
     constructor() {
         super();
     }
@@ -20,49 +27,50 @@ class Hotel extends React.Component {
         return (
             <div className="">
                 <Container>
-                    
-                    <Row>
-                        <Col>
-                            <div className="">
-                               <form>
-                               <Form.Control type="where" placeholder="where to" />
 
-                               </form>
-                             </div>
+                    <Row>
+                        <Col>
+                            <div className="">
+                                <form>
+                                    <Form.Control type="where" placeholder="where to" />
+
+                                </form>
+                            </div>
                         </Col>
                     </Row>
                     <Row>
                         <Col>
                             <div className="">
-                                <DateRangePicker/>
-                             </div>
+                                <DateRangePicker  placeholder="Check-in - Check-out" />
+
+                            </div>
                         </Col>
                         <Col>
                             <div className="">
-                               <p>dsgsd</p>
-                             </div>
+                                <p>dsgsd</p>
+                            </div>
                         </Col>
                         <Col>
                             <div className="">
-                               <p>dsgsd</p>
-                             </div>
+                                <p>dsgsd</p>
+                            </div>
                         </Col>
                     </Row>
                     <Row>
                         <Col>
                             <div className="">
-                               <p>dsgsd</p>
-                             </div>
+                                <p>dsgsd</p>
+                            </div>
                         </Col>
                         <Col>
                             <div className="">
-                               <p>dsgsd</p>
-                             </div>
+                                <p>dsgsd</p>
+                            </div>
                         </Col>
                         <Col>
                             <div className="">
-                               <p>dsgsd</p>
-                             </div>
+                                <p>dsgsd</p>
+                            </div>
                         </Col>
                     </Row>
                 </Container>
@@ -71,4 +79,4 @@ class Hotel extends React.Component {
     }
 };
 
-export default Hotel;
+export default Cruises;

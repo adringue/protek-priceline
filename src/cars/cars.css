@@ -1,0 +1,27 @@
+.rs-picker-toggle-wrapper{
+    width: 100%;
+}
+.input-group.md-form.form-sm.form-1 input {
+    border: 1px solid #bdbdbd;
+    border-top-right-radius: 0.25rem;
+    border-bottom-right-radius: 0.25rem;
+}
+
+.block-search{
+    padding-left: 0;
+    max-width: 100% !important;
+    padding-right: 0;
+}
+
+.reservation{
+    border: 1px solid grey;
+}
+.adj-submit-button{
+    width: 100%;
+}
+.adj-search-height{
+    height: 64px;
+}
+.adj-input{
+    height: 100%;
+}
